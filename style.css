@@ -11,7 +11,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url("imagem/Background.jpg")no-repeat;
+    background-image: url("imagem/Background.jpg");
 }
 .caixa-maior{
     background: #000000;
